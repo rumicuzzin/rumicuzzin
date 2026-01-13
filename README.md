@@ -17,7 +17,7 @@ I'm a fourth-year Mechatronic Engineering & Commerce student at the University o
 
 ## 🔬 Current Interests
 
-I'm fascinated by how far small, open-source models can go when dedicated to specific tasks—often rivaling larger, more expensive alternatives. My current project involves deploying Maincode-1B as a completely free, local coding assistant.
+I'm fascinated by how far small, open-source models can punch above their weight when dedicated to specific tasks. They often match larger, energy-hungry alternatives at a fraction of the cost. Currently playing around with Maincode-1B as a free, local coding assistant.
 
 ## 🌐 Connect with me:
 
