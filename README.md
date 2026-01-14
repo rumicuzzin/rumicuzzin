@@ -33,7 +33,6 @@ Languages:
 Developer Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-![Playwright](https://playwright.dev/img/playwright-logo.svg)
 
 Frameworks:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
