@@ -50,3 +50,4 @@ I'm fascinated by how far small, open-source models can punch above their weight
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Artillery](https://img.shields.io/badge/artillery-%23000000.svg?style=for-the-badge&logo=artillery&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
