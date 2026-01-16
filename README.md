@@ -25,14 +25,24 @@ I'm fascinated by how far small, open-source models can punch above their weight
 
 # 💻 Tech Stack:
 
-Languages:
+
+**Languages:**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Developer Tools:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM_Studio-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+**Libraries:**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
-Frameworks:
+**Frameworks:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Developer Tools:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Artillery](https://img.shields.io/badge/artillery-%23000000.svg?style=for-the-badge&logo=artillery&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
