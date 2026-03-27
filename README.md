@@ -8,7 +8,7 @@ I'm a fourth-year Mechatronic Engineering & Commerce student at the University o
 
 I'm currently working as a software engineer at an ASX 100 company in the fintech space. My work focuses on building Python tools that automate and streamline workflows for both internal teams and external users. I also collaborate with the cloud and infrastructure team, where I'm picking up Terraform, learning how to stand up servers, and building my understanding of the architecture behind it all. This is to gain a clearer understanding of how large systems work.
 
-Alongside that, I do AI consulting, primarily for engineering and construction companies (mining, tunneling consultants, small-medium sized building companies). The work is mostly about automating the mundane: identifying the repetitive, time-consuming tasks in a given workflow and finding the right tools to handle them. Beyond that, I keep clients up to speed on what's actually useful in the AI and tooling space right now, tailoring recommendations to their specific processes rather than pushing generic solutions.
+Alongside that, I do AI consulting, primarily for engineering and construction companies (mining, tunneling consultants, small-medium sized building companies). The work is mostly about automating the mundane: identifying the repetitive, time-consuming tasks in a given workflow and finding the right tools to handle them. Beyond that, I keep clients up to speed on what's actually useful in the AI and tooling space right now, tailoring recommendations to their specific processes.
 
 ## Education
 
