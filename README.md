@@ -1,31 +1,25 @@
-# Hi 👋 I'm Willem Rumi
+# Willem Rumi
 
-# 💫 About Me:
+## About Me
 
-I'm a fourth-year Mechatronic Engineering & Commerce student at the University of Sydney, passionate about exploring the intersection of AI, finance, and engineering.
+I'm a fourth-year Mechatronic Engineering & Commerce student at the University of Sydney, with a focus on the intersection of AI, finance, and engineering.
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-- 🤖 Software Engineering Intern at an ASX 100 fintech company, integrating AI with products and tools
-- 🧠 Exploring open-source low-parameter models and their potential for dedicated tasks
-- 💻 Currently working on deploying [Maincode-1B](https://github.com) as a free local coding agent (Australia's first sovereign AI)
+I'm currently doing AI consulting, primarily for engineering companies — mining and tunneling consultants, infrastructure firms, and residential and commercial building companies. The work is mostly about automating the mundane: identifying the repetitive, time-consuming tasks in a given workflow and finding the right tools to handle them. Beyond that, I keep clients up to speed on what's actually useful in the AI and tooling space right now, tailoring recommendations to their specific processes rather than pushing generic solutions.
 
-## 🎓 Education
+## Education
 
-- 📚 Bachelor of Mechatronic Engineering (Honours) | University of Sydney
-- 📊 Bachelor of Commerce (Finance Major) | University of Sydney
+- Bachelor of Mechatronic Engineering (Honours) | University of Sydney
+- Bachelor of Commerce (Finance Major) | University of Sydney
 
-## 🔬 Current Interests
-
-I'm fascinated by how far small, open-source models can go when dedicated to specific tasks—often rivaling larger, more expensive alternatives. My current project involves deploying Maincode-1B as a completely free, local coding assistant.
-
-## 🌐 Connect with me:
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
-# 💻 Tech Stack:
+## Tech Stack
 
-Languages:
+Languages:`
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
