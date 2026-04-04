@@ -10,6 +10,8 @@ I'm currently working as a software engineer at an ASX 100 company in the fintec
 
 Alongside that, I do AI consulting, primarily for engineering and construction companies. The work is mostly about automating the mundane: identifying the repetitive, time-consuming tasks in a given workflow and finding the right tools to handle them. Beyond that, I keep clients up to speed on what's actually useful in the AI and tooling space right now, tailoring recommendations to their specific processes.
 
+In my sparetime, I am working alongside Claude code to create InferenceEconoimics. More to come on this soon... 
+
 ## Education
 
 - Bachelor of Mechatronic Engineering (Honours) | University of Sydney
