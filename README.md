@@ -10,6 +10,7 @@ Currently working on:
 - an AI software project for a coin trading business ( yeh physical coins, and at a pretty solid scale ). We are basically trying to automate and streamline the whole system. The business (5 employees) all use the latest production version of the application, with AI helping the pricing, communication, organisation and speed variables for their business in order for them to scale without growing to much in numbers. We continue to work alongside them to really bring it alive.
 - Managing a small software consulting business where I quote jobs and look into projects for people, seeing if I can help solve their problems.
 - Personal Super Assistant ( everyones attempt at the all-in-1 concept I guess )
+- Learning Spanish 
 - pending
 
 Past:
