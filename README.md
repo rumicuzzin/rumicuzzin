@@ -1,19 +1,19 @@
 # Willem Rumi
 
-## About Me
+Hi, 
 
-I'm a fourth-year Mechatronic Engineering & Commerce student at the University of Sydney, with a focus on the intersection of AI, finance, and engineering.
+I'm just about wrapping up my never-ending degree of mechatronic engineering and finance. 
 
-## What I'm Up To
+I build a bunch of stuff, for people and also myself. I worked at an ASX100 fintech company, where I learnt all things enterprise software. I tend to lean more toward handling the infra/backend if I had to choose. 
 
-I'm currently working as a software engineer at an ASX 100 company in the fintech space. My work focuses on building Python tools that automate and streamline workflows for both internal teams and external users. I also collaborate with the cloud and infrastructure team, where I'm picking up Terraform, learning how to stand up servers, and building my understanding of the architecture behind it all. This is to gain a clearer understanding of how large systems work.
+Currently working on:
+- an AI software project for a mates coin trading business (Physical Coins!). We are basically trying to automate and streamline the whole system. The business (5 employees) all use the lates production version. As we are working alongside them to really bring it alive.
+- Managing a small software consulting business where I quote jobs and prices
+- Personal Super Assistant ( everyones attempt at the all-in-1 concept I guess )
+- pending
 
-Alongside that, I consult for small businesses to see how they can improve their functions with the most up to date tools available. This involves migrating existing data to more structured formats, building custom software that is AI enabled and integrated with their data and providing advice on decisions in the face of AI. 
-
-## Education
-
-- Bachelor of Mechatronic Engineering (Honours) | University of Sydney
-- Bachelor of Commerce (Finance Major) | University of Sydney
+Past:
+- Built a inventory, sales, invoicing, logistics... Business platform for one of the larger art galleries in Australia. Things are continuing on this project, however I have stepped away to explore opportunities in Madrid. This was a fun project. Transformed their business. They where managing 5 galleries over google sheets and a bunch of other different services. Now they have a nice AI-ified completely tailored Inventory/Xero/Salesforce all in 1.
 
 ## Connect
 
