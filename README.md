@@ -1,6 +1,6 @@
 # Willem Rumi
 
-Hi, 
+Hola, 
 
 I'm just about wrapping up my never-ending degree of mechatronic engineering and finance. 
 
